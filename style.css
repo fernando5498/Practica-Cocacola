@@ -184,6 +184,9 @@ header ul li a {
         visibility: hidden;
         opacity: 0;
     }
+    img.pepsi {
+        height: 250px;
+    }
     header ul.active {
         visibility: visible;
         opacity: 1;
