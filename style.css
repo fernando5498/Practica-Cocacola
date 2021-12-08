@@ -185,7 +185,17 @@
             }
         }
         
-        @media (max-width: 991px) {
+        @media (max-width:1200px) {
+            h2 {
+                font-size: 1rem;
+                ;
+            }
+            .textoBox h2 span {
+                font-size: 5rem;
+            }
+        }
+        
+        @media (max-width: 990px) {
             section {
                 padding: 40px;
                 padding-bottom: 140px;
